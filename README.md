@@ -9,7 +9,7 @@ Security Lab set up
 The main objectives of this project are to:
 -Install and Configure Virtual Box
 -install an set up Kali Linux 
--Create a private **NAT Network** for the cybersecurity lab.
+-Create a private **NAT Network** for the cybersecurity lab.Configure the network settings on your Virtualbox (create NATNetwork in 10.0.0.0/24)
 - Configure network connectivity for Kali Linux.
 - Assign a consistent IP address to the Kali VM.
 - Verify network connectivity and DNS resolution.
