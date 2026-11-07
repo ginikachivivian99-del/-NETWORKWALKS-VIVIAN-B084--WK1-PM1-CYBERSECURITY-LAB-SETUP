@@ -98,28 +98,39 @@ I aslo encountered problem at the first step of downloading my kali, my laptop s
 i went to my window security and my browser setting and permitted it to download by creating an exception on my windows security that aligns with that of the exact file location
 
 After reimporting my kali, i went back to the guides to see what i missed on, and corrected my errors.
-
 i reset up the ip configuration on my kali linux, 
 
 
 <img width="575" height="430" alt="Screenshot 2026-11-06 050605" src="https://github.com/user-attachments/assets/2813fdca-4310-441b-a4c8-e1b69f997360" />
 
 2
+
+
+##
 <img width="959" height="526" alt="Screenshot 2026-11-06 050811" src="https://github.com/user-attachments/assets/55b72b27-6b05-426c-8ef3-5ba72046b775" />
 
 KALI IP CONFIGURATION
 
+
+###___-
 <img width="959" height="538" alt="Screenshot 2026-11-07 121331" src="https://github.com/user-attachments/assets/c02862f1-9d4b-41b9-9d34-be3fc9baebcb" />
 
-Configuration done, and my network is working
+Configuration done, and my network is working##
+
+
+
 
 <img width="959" height="530" alt="Screenshot 2026-11-07 115718" src="https://github.com/user-attachments/assets/bdabcaab-dd2d-4e45-bb5b-924198289f55" />
 
 
 
 
+####
+
 
 my SNAPSHOT Taken
+
+##
 <img width="959" height="535" alt="Screenshot 2026-11-06 200317" src="https://github.com/user-attachments/assets/4a4e42d0-b94f-42b4-904d-c5f4e13bd46a" />
 
 
