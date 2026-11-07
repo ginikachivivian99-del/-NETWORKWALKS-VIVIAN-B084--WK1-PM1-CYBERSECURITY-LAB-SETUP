@@ -109,6 +109,12 @@ i reset up the ip configuration on my kali linux,
 
 KALI IP CONFIGURATION
 
+<img width="959" height="538" alt="Screenshot 2026-11-07 121331" src="https://github.com/user-attachments/assets/c02862f1-9d4b-41b9-9d34-be3fc9baebcb" />
+
+Configuration done, and my network is working
+
+<img width="959" height="530" alt="Screenshot 2026-11-07 115718" src="https://github.com/user-attachments/assets/bdabcaab-dd2d-4e45-bb5b-924198289f55" />
+
 
 
 
