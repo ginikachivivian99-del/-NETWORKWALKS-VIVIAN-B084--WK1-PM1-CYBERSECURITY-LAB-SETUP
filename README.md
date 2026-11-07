@@ -87,7 +87,11 @@ PROBLEMS ENCOUNTERED
 I encountered a network issue on my kali, my browser was not opening and the network was not pinging via the terminal, I removed the kali and imported it back to the virtual machine. 
 
 <img width="1280" height="800" alt="problems encountered" src="https://github.com/user-attachments/assets/5415b400-0524-42ee-b70d-bf77de2095ba" />
+
+
 I aslo encountered problem at the first step of downloading my kali, my laptop seurity set up flagged it and it wasn't  getting into my system 
+
+
 
 <img width="578" height="330" alt="Screenshot 2026-10-27 153815" src="https://github.com/user-attachments/assets/6bb8e010-fbde-4fc2-b80c-4b6225677065" />
 
